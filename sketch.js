@@ -14,12 +14,12 @@ var feathersCollected = 0;
 
 
 function preload(){
-pigeonImg = loadImage("pictures/pigeon.jpg")
-skyImg = loadImage("pictures/sky.jpg")
-fireImg = loadImage("pictures/fire.png")
-featherImg = loadImage("pictures/feather.jpg")
-gameOverImg = loadImage("pictures/gameOver.jpg")
-restartImg = loadImage("pictures/restart.jpg")
+pigeonImg = loadImage("pigeon.jpg")
+skyImg = loadImage("sky.jpg")
+fireImg = loadImage("fire.png")
+featherImg = loadImage("feather.jpg")
+gameOverImg = loadImage("gameOver.jpg")
+restartImg = loadImage("restart.jpg")
 
 }
 
